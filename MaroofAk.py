@@ -99,8 +99,8 @@ logo = """
 
 \033[1;92mCoder   :\033[1;96mSUDAIS KHAN
 \033[1;92mGithub  :\033[1;96mhttps://github.com/MrAtifjan
-\033[1;92mFacebook:\033[1;96mMaroofKhan
-\033[1;92mYoutube :\033[1;96mTech Qaiser
+\033[1;92mFacebook:\033[1;96mMaroofKhanBro
+\033[1;92mYoutube :\033[1;96mBrain Center
 \033[1;92mNote :\033[1;96mFuXk The System
 \033[1;92mNew Update :\033[1;96m Identity Problem Fixed 100% If You Login With Acces Token
 
